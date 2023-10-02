@@ -3,3 +3,9 @@ this is a test file
 this is local changes
 Local repo line 2
 Remote repo line 2
+public static test(){
+line 1
+line 2
+line 4
+line 5
+}

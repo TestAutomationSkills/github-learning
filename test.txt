@@ -2,3 +2,4 @@ this is a test file
  Remote Repo line
 this is local changes
 Local repo line 2
+Remote repo line 2
